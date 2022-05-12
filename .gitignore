@@ -1,1 +1,3 @@
-
+# dependencies
+/frontend/node*
+/frontend/node_modules
